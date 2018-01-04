@@ -1,5 +1,5 @@
 # 🎮 CHIP-8.rs
-A [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) emulator written in Rust as a means of learning more about emulation and the Rust language itself. Initial code was pieced together by reading [various articles](http://emulator101.com/) and then improved by looking to [other Rust implementations](https://github.com/starrhorne) for tips on best practices.
+A [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) emulator written in Rust as a means of learning more about emulation and the Rust language itself. Initial code was pieced together by reading [various articles](http://emulator101.com/) and then improved by looking to [other Rust](https://github.com/starrhorne/chip8-rust) [implementations](https://github.com/mikezaby/chip-8.rs) for tips on best practices.
 
 ![Screenshot of CHIP-8 running SPACE INVADERS](https://github.com/measuredweighed/CHIP-8.rs/blob/master/screenshot.png)
 
