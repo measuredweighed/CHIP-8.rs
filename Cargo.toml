@@ -1,0 +1,13 @@
+[package]
+name = "emulator"
+version = "0.0.1"
+authors = [ "@measuredweighed <you@example.com>" ]
+
+[dependencies]
+byteorder = "1"
+rand = "0.4"
+
+[dependencies.sdl2]
+version = "0.31"
+default-features = false
+features = ["ttf","image","gfx","mixer"]
